@@ -23,6 +23,7 @@ form p {
 	margin: 0px;
 }
 .task_input {
+	text-align: center;
 	width: 75%;
 	height: 15px; 
 	padding: 10px;
@@ -67,7 +68,7 @@ tr:hover {
 }
 
 .task {
-	text-align: left;
+	text-align: center;
 }
 
 .edit_delete {
